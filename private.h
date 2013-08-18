@@ -275,6 +275,7 @@ time(time_t *p)
 	return r;
 }
 #endif
+#include "intercept.h"
 
 /*
 ** Private function declarations.

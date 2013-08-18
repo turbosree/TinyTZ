@@ -1,0 +1,16 @@
+;; List of timezone regions. For more details about regions, read the region specific file.
+;; Author: Sreejith.Naarakathil@gmail.com
+africa
+antarctica
+asia
+australasia
+europe
+northamerica
+southamerica
+pacificnew
+etcetera
+systemv
+factory
+solar87
+solar88
+solar89
